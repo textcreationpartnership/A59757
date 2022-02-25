@@ -1,0 +1,428 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>S. Pauls confession of faith, or, A brief account of his religion in a sermon preach'd at St. Warbroughs Church in Dublin, March 22, 1684/5 / by William Lord Bishop of Kilmore and Ardagh.</title>
+            <author>Sheridan, William, 1636-1711.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59757</idno>
+            <idno type="STC">Wing S3231</idno>
+            <idno type="STC">ESTC R32664</idno>
+            <idno type="EEBO-CITATION">12744632</idno>
+            <idno type="OCLC">ocm 12744632</idno>
+            <idno type="VID">93209</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59757)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93209)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1536:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>S. Pauls confession of faith, or, A brief account of his religion in a sermon preach'd at St. Warbroughs Church in Dublin, March 22, 1684/5 / by William Lord Bishop of Kilmore and Ardagh.</title>
+                  <author>Sheridan, William, 1636-1711.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second impression.</edition>
+               </editionStmt>
+               <extent>[8], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Joseph Ray ... for William Norman ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Preface to the reader" [in the form of two letters to the author] signed: A. Midensis [and] W. King.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Paul, --  the Apostle, Saint.</term>
+               <term>Bible --  Evidences, authority, etc.</term>
+               <term>Authority --  Religious aspects.</term>
+               <term>Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93209:1"/>
+            <pb facs="tcp:93209:1" rendition="simple:additions"/>
+            <p>S. PAULS CONFESSION OF FAITH, OR A BRIEF ACCOUNT OF HIS RELIGION. IN A SERMON Preach'd at St. <hi>Warbroughs</hi> Church in <hi>Dublin, March</hi> 22. 1684/5.</p>
+            <p>By <hi>William</hi> Lord Biſhop of <hi>Kilmore</hi> and <hi>Ardagh.</hi>
+            </p>
+            <p>
+               <hi>The Second Impreſſion.</hi>
+            </p>
+            <p>
+               <hi>Dublin,</hi> Printed by <hi>Joſeph Ray,</hi> at <hi>Colledge Green,</hi> for <hi>William Norman,</hi> Bookſeller in <hi>Dames ſtreet.</hi> 1685.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:93209:2"/>
+            <pb facs="tcp:93209:2"/>
+            <head>PREFACE TO THE READER.</head>
+            <p>SInce the Preaching of the enſuing Sermon, I find that both it, and the Author have undergone various Cen<g ref="char:EOLhyphen"/>ſures; ſome object <g ref="char:V">Ʋ</g>nſeaſonableneſs againſt it, and o<g ref="char:EOLhyphen"/>thers Diſloyalty; and for this reaſon, being not willing to lie under that Imputation; and being conſcious to my ſelf, that I never entertain'd ſo much as a diſloyal thought, I am re<g ref="char:EOLhyphen"/>ſolved the Sermon ſhall ſhift for it ſelf: But I am a little more concern'd to ſatisfy the World, as to its ſeaſonableneſs; becauſe even ſome of my Friends ſeem unſatisfied. <hi>What needed you,</hi> ſay they, <hi>meddle with ſuch a Subject? why at this time? Could you not let things run quietly? and be content to preach (if you muſt be preaching) the Prin<g ref="char:EOLhyphen"/>ciples and Motives of and to a good Life, without med<g ref="char:EOLhyphen"/>ling with Controverſies and Diſputes?</hi>
+            </p>
+            <p>I muſt confeſs, if thoſe Principles, againſt which I preach'd, had no influence on mens Lives, or were not pernicious to their Souls, I ſhould be of their Opinion; but being convin<g ref="char:EOLhyphen"/>ced of both, this alone is ſufficient for juſtifying what I have done. But I am reſolved to be ingenious with the World, and diſcover the true Motives that put me on this Subject. I found that one of the Clergy of <hi>Dublin,</hi> though a very loyal perſon, for his imprudent medling with the State,
+<pb facs="tcp:93209:3"/>had been juſtly ſuſpended by his Dioceſan; and that the Peo<g ref="char:EOLhyphen"/>ple (who ſeldom know or conſider the true cauſes of things) thought this Puniſhment was impoſed on him, for arguing for our Religion; the tender ſenſe they have for that, put them into mighty Fears and Deſpondencies, and made them reflect upon the Clergy; as if they muſt either decline the Defence of the Truth, which they value above their Lives, or be ſi<g ref="char:EOLhyphen"/>lenc'd: I eaſily ſaw what ill effects ſuch Surmiſes might pro<g ref="char:EOLhyphen"/>duce: and although ſeveral private Clergymen ſaid enough to ſatisfie the people of the falſeneſs of the Concluſion they drew from that accident; yet ſeeing them ſtill diſſatisfied, I conſider'd, to remove their Jealouſies, was a work proper for one of an higher Degree in the Church; and being invited to preach at St. <hi>Warbroughs,</hi> where there is generally a very full Auditory; I was glad of the opportunity of diſ<g ref="char:EOLhyphen"/>charging my Duty, and ſatisfying the People, and convincing many <hi>Roman Catholicks,</hi> who were then preſent <hi>to ſpy out our Liberty,</hi> that we had, and would take the ſame liberty as ever to defend our own Religion, and to ſhew the Falſhood of theirs; and I have ſome reaſon to believe, that what I then delivered had a good effect on their minds, both as to the Government, and the Clergy.</p>
+            <p>But I muſt further tell theſe Gentlemen, That whatever policy may ſeem to be in being ſilent at this time; it is too mean, and has too much of the World in it ever to be ex<g ref="char:EOLhyphen"/>pected from a Clergyman, eſpecially it cannot from a Bi<g ref="char:EOLhyphen"/>ſhop, whoſe very Conſecration obliges <hi>him to preach and drive away all Erronious and Falſe Doctrine contrary to Gods Word, and both privately and openly to call upon, and incourage others to the ſame:</hi> ſuch we believe the Doctrines of the preſent Church of <hi>Rome</hi> to be: and while we do ſo, it is not to be expected that any worldly conſide<g ref="char:EOLhyphen"/>ration ſhould prevail with us to be ſilent; our Vows ob<g ref="char:EOLhyphen"/>lige us to the contrary; and the Charity which we owe to the Souls of Men is a farther tie upon us to warn them of the danger they bring on themſelves by liſtning to ſuch
+<pb facs="tcp:93209:3"/>Doctrines, or perſevering in them, though they have embrac'd them.</p>
+            <p>We are perſwaded our ſilence in this caſe would prejudice our own People againſt <g ref="char:V">Ʋ</g>s, and the Truth, and flatter our Adverſaries with hopes of our going over to them, and ſo confirm them in their pernicious Errors; Let who ſo will hold ſuch Errors, Truth is Truth, and muſt be defended: And if the <hi>Romaniſts</hi> will but do as they would be done by, they cannot take this ill at our hands; eſpecially, while we have not only the Law on our ſides, but alſo the Word of that King (who is famous for having never broken it) to defend our Religion: and if they be angry for this, we cannot help it. Truth is dearer to us, then their favour.</p>
+            <p>We look on the Supremacy of the Pope, and his unjuſt <g ref="char:V">Ʋ</g>ſurpation over Kings, and his fellow Biſhops, as the funda<g ref="char:EOLhyphen"/>mental Article of Popery: and it is required by the ſecond Canon of the Curch of <hi>Ireland</hi> of every Preacher <hi>to the ut<g ref="char:EOLhyphen"/>moſt of his Wit, Knowledge, and Learning, to preach a<g ref="char:EOLhyphen"/>gainſt it four times a year:</hi> And the twelfth Canon further requires, That the Miniſters in all their Preachings, <hi>&amp;c. ſhall teach the People to place their whole truſt and conſi<g ref="char:EOLhyphen"/>dence in God, and not in Creatures, neither in the Habit or Scapular of any Frier, or in Hallowed Beads, Medals, Relicks, or ſuch like Trumperies.</hi> And while theſe Canons ſtand in force, we will, we muſt do our duty according to them; and the Government would have juſt reaſon to take notice of us if we ſhould omit it: And till I ſeer better rea<g ref="char:EOLhyphen"/>ſons then I have yet heard, I muſt think my Sermon a very ſeaſonable intimation of our reſolution of being true &amp; ſteady to our Laws, Oaths and Duties, and that it will be impoſſible to withdraw us from thoſe Principles of Religion which we pro<g ref="char:EOLhyphen"/>feſs, and upon ſtrict and diligent examination know, not on<g ref="char:EOLhyphen"/>ly to be true, but neceſſary alſo, even in ſuch a degree as to concern the Salvation of Mankind.</p>
+            <p>And let the <hi>Romaniſts</hi> take it as they pleaſe, they muſt expect a great many ſuch, and blame themſelves that this
+<pb facs="tcp:93209:4"/>does now appear in print: Becauſe the falſe repreſentation they made of what was then ſaid hath made this publication of it neceſſary; and theſe two following Letters written to me on that occaſion hath convinced me of that neceſſity.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>My very good Lord,</salute>
+                  </opener>
+                  <p>YOur Lordſhips late Sermon, preach'd at St. <hi>War<g ref="char:EOLhyphen"/>broughs</hi> Church in <hi>Dublin,</hi> has given me an occaſion of repreſenting the ſeveral Cenſures upon it to your Lord<g ref="char:EOLhyphen"/>ſhip, and withal of freely communicating my thoughts to you concerning it. The Gentlemen, who would paſs for the only Catholicks in the world, cenſure it as diſloy<g ref="char:EOLhyphen"/>al, and tending to Sedition; the Phanaticks are offended becauſe you boldly tell them the truth, and lay the blame of our preſent misfortunes (where 'tis juſtly chargeable) at their doors: and there is a third ſort of men, whom I may call the Politicians of the age, that do not con<g ref="char:EOLhyphen"/>demn, but only cenſure ſome things in it as unſeaſonable, and not fit to be ſpoken in theſe times.</p>
+                  <p>It was my misfortune not to be preſent at the Delivery of it; but however, upon the experience of above thirty years acquaintance with your Lordſhip, I can vouch as much for your Loyalty as my own, and do really in my Conſcience acquit you from any deſign of inſluencing the People; and when I reflect upon the ſaying of St. <hi>Paul, Gal.</hi> 1.10. <hi>If I pleaſe men, I ſhould not be the Servant of Chriſt.</hi> I am well aſſured, you diſcharged a good Conſci<g ref="char:EOLhyphen"/>ence towards God; becauſe you have been ſo little folli<g ref="char:EOLhyphen"/>citous to ſtudy the Satisfaction of the World.</p>
+                  <p>However, becauſe ſo many various Cenſures are paſt upon it already, and neither you nor I can foreſee what miſconſtructions may be made of it for the future; and becauſe ſome things are reported of it, which I hear, were not delivered, to your prejudice; I think you cannot do your ſelf, nor your Sermon greater juſtice, than to expoſe it to the publick view of the world, and let it plead its
+<pb facs="tcp:93209:4"/>cauſe againſt all Gainſayers: By this you will have an opportunity of vindicating your Loyalty againſt the Ex<g ref="char:EOLhyphen"/>ceptions of the pretended Catholicks; your Prudence a<g ref="char:EOLhyphen"/>gainſt the temporizing Politicians; and your Doctrine a<g ref="char:EOLhyphen"/>gainſt all that are reſolved to write againſt it: And I am confident, let them begin when they will, if you need Succours, the Cauſe will not want thoſe that ſhall aſſiſt. I am</p>
+                  <closer>
+                     <signed>Your Lordſhips moſt affectionate humble Servant <hi>A. Midenſis.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>This was followed by this ſecond Letter.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>I Had the Happineſs to hear your laſt Sermon at St. <hi>Warbroughs,</hi> and find by my converſing amongſt the people, that it gave general ſatisfaction, and has done really a great deal of good. They imagine that your Lordſhip by your Station and Correſpondence under<g ref="char:EOLhyphen"/>ſtands much of Affairs; and they generally conclude by your behaviour in that Sermon, That we are very ſecure in the King's Royal Word. You would hardly imagine how far this hath quieted ſome ſuſpicious minds; and if your Lordſhip would let your ſelf be prevailed with to make it publick, I am confident it would contribute yet more to ſecure the loyalty, and quiet the fears of the People: and though this may ſeem unneceſſary to your Lordſhip, it being impoſſible any one of our Communi<g ref="char:EOLhyphen"/>on ſhould be diſloyal without renouncing his Religion; yet give me leave to inform your Lordſhip, that there nei<g ref="char:EOLhyphen"/>ther doth, nor will want thoſe, that having nothing to
+<pb facs="tcp:93209:5"/>ſay to it, as it is, will not fail to miſrepreſent it: to pre<g ref="char:EOLhyphen"/>vent therefore them, if not to ſatisfie your Friends, I hope you will be perſuaded to comply with the requeſt of</p>
+                  <closer>
+                     <salute>My Lord,</salute> 
+                     <signed>Your Lordſhips moſt humble and dutiful Servant <hi>W. King.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>From theſe two Letters the Readers may ſee the ſence of both Adverſaries and Friends, and what effect it had on them, and eſpecially the People; and by publiſhing of it, I hope at leaſt, to get this advantage, that our Adverſaries will be afraid to miſrepreſent future Diſcourſes of this kind, when they ſee we have ſo ready and ſhort a way to expoſe their Lies: And let them reſt ſatisfied, that notwithſtand<g ref="char:EOLhyphen"/>ing their cauſleſs heights, and the confident brags of ſome of them, That our Religion ſhall ſoon be ſuppreſs'd; and the wheadles of others of them, by which they think to prevail with us, if not to come over to theirs, yet to ſpeak nothing in confutation of it; we both dare and will juſtify our Selves and our Religion againſt all the little petty arts of Defama<g ref="char:EOLhyphen"/>tion or Calumny they can uſe againſt us; and that we believe the chiefeſt of their ſtrength conſiſts in theſe.</p>
+            <p>I have only this one thing more to add, That this Sermon is printed as it was preached, without any alteration; and that it is own'd as the true ſence and real expreſſion of the thoughts and heart of the Preacher.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:93209:5"/>
+            <head>St. PAUL'S CONFESSION of FAITH.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Acts 24.14, 15, 16.</hi>
+                  </bibl>
+                  <p>But this I confeſs unto thee, that after the way which they call Hereſy, ſo worſhip I the God of my Fathers, believing all things which are written in the Law and the Prophets; and have hope towards God, which they themſelves alſo allow, that there ſhall be a reſurrection of the dead, both of the juſt and unjuſt. And herein do I exerciſe my ſelf, to have a Conſcience void of offence towards God, and towards man.</p>
+               </q>
+            </epigraph>
+            <p>TWo things are required in a Preacher, to be able to exhort with wholeſome Doctrine, and to con<g ref="char:EOLhyphen"/>fute Gainſayers; the one requires Rhetoric, the other Logic. We cannot have a better preſident for this than St. <hi>Paul;</hi>
+               <note place="margin">
+                  <hi>Acts</hi> 14.</note> whom for his admirable Elocution the In<g ref="char:EOLhyphen"/>fidels took for <hi>Mercury,</hi> their God of Eloquence come down from Heaven; and for the profoundneſs of his matter he is ſtiled a <hi>choſen Veſſel,</hi>
+               <note place="margin">
+                  <hi>Acts</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note> to contain the Myſte<g ref="char:EOLhyphen"/>ries of Gods Kingdom: for proof of this I will only in<g ref="char:EOLhyphen"/>ſtance to you from the 33d of the 8th to the <hi>Romans,</hi> to the end of that chapter, whereof<note n="*" place="margin">Doctr. Chriſtian.</note> St. <hi>Auſtin</hi> and<note n="†" place="margin">Annot. in N. Toſt.</note> 
+               <hi>Eraſ mus</hi> ſay, that never <hi>Tully</hi> nor <hi>Demoſthenes</hi> could ſpeak any thing like him; there being nothing mean or low in the whole; for if we reſpect the perſons, here we have God, Chriſt at the right hand of the Father, Principalities and Powers; if we reſpect the things; here we have life, heighth, depth, things preſent, and things to come: and if we reſpect the Rhetorical Ornaments, what Interroga<g ref="char:EOLhyphen"/>tions,
+<pb n="2" facs="tcp:93209:6"/>what Gradations, what Antitheſes, what contraries, and what repetitions? So that this might juſtly make up the 3d part of St. <hi>Auſtin</hi>'s wiſh, that he had ſeen Chriſt in the fleſh, <hi>Rome</hi> flouriſhing, and St. <hi>Paul</hi> preaching. But I need no further Arguments, this very conflict with <hi>Ter<g ref="char:EOLhyphen"/>tullus</hi> is a ſufficient demonſtration; whereof my Text is a part: for having clear'd himſelf from that moſt odious crime of Sedition, and evidently proved that the Orators Accuſation was not only improbable, but impoſſible: he now deſcends to the other branch of his Calumny con<g ref="char:EOLhyphen"/>cerning his Religion; that as he was no turbulent Fel<g ref="char:EOLhyphen"/>low, nor raiſer of Sedition in the Common-wealth; ſo he was no ſetter forth, nor maintainer of heretical Doctrines, or Novelties in the Church.</p>
+            <p>In the words we have theſe two parts.</p>
+            <list>
+               <item>1. His Conceſſion, in theſe words, <hi>[but this I confeſs]</hi>
+               </item>
+               <item>2. His Confeſſion, in theſe words, [<hi>after the way which they call Hereſy,</hi> &amp;c.]</item>
+            </list>
+            <p>And in his Confeſſion we have theſe particulars;
+<list>
+                  <item>1. The Act, <hi>I worſhip.</hi>
+                  </item>
+                  <item>2. The Object, <hi>The God of my Fathers.</hi>
+                  </item>
+                  <item>3. The Manner, <hi>after that way which they call Hereſy.</hi>
+                  </item>
+                  <item>4. The Rule of it, <hi>believing all things that are written in the Law and the Prophets.</hi>
+                  </item>
+                  <item>5. The principal ground of it, <hi>and have hope towards God, that there ſhall be a Reſurrection of the dead.</hi>
+                  </item>
+                  <item>6. And laſtly, the Effect of it, <hi>and herein do I exerciſe my ſelf, to have always a Conſcience void of offence toward God, and toward Man.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>So that if you would have a clear and perfect definition of St. <hi>Paul</hi>'s Religion, it is briefly this; <hi>A worſhiping of one true God by Jeſus Chriſt according to the Scriptures, with a ſtedfaſt endeavour to keep the purity of the Conſcience unſpotted, in hopes of the future Reſurrection of the dead.</hi> But to proceed.</p>
+            <p n="1">1. Of his Conceſſion, <hi>but I confeſs.</hi>
+            </p>
+            <pb n="3" facs="tcp:93209:6"/>
+            <p> From which ingenuous Confeſſion of his Faith before an Heathen, we may learn our own Duty;<note place="margin">
+                  <hi>Matt.</hi> 10.32.</note> 
+               <hi>whoſoever will confeſs me before men, him will I confeſs before my Father which is in Heaven:</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 10.10.</note> and <hi>with the heart man believeth unto righteouſneſs, and with the mouth confeſſion is made unto Sal<g ref="char:EOLhyphen"/>vation. Iſaiah</hi> propheſied of the times of the Goſpel,<note place="margin">
+                  <hi>Ch.</hi> 44.5.</note> 
+               <hi>that one ſhould ſay, I am the Lords, and another ſhould be called by the name of</hi> Jacob; <hi>and another ſhould ſubſcribe with his hand, and name himſelf by the name of</hi> Iſrael: and 'tis requi<g ref="char:EOLhyphen"/>red,<note place="margin">
+                  <hi>Phil.</hi> 2.10.</note> that not only <hi>every knee ſhould bow; but alſo that every tongue ſhould confeſs that Jeſus Chriſt is Lord, to the glory of the Father.</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 137.</note> The want of the means of this public confeſſi<g ref="char:EOLunhyphen"/>on made the Jews lament when they ſate by the <hi>Rivers of Babylon;</hi> and made <hi>Jeremy</hi> cry out,<note place="margin">
+                  <hi>Lament.</hi> 1.4.</note> that the ways of <hi>Zion</hi> did <hi>lament, becauſe no man cometh to the public Aſſemblies.</hi> And the Thief on the Croſs, for confeſſing Chriſt, was that day with him in Paradiſe; for the inward frame of the heart is diſcovered by outward devotion; and he that does not confeſs his Religion when he is put to it, either has none at all, or does not much care for it. God ſays not, I have reſerved 7000 that have not believed in <hi>Baal,</hi> but whoſe knees have not bowed to <hi>Baal;</hi> which ſhews, that he expects a public owning of him, as well as a ſecret believing in him; and the Devil himſelf did not tempt Chriſt to believe in him, but to fall down and worſhip him; and the three Children choſe to be burned, rather than give adoration to <hi>Nebuchadnezzar</hi>'s golden Image.</p>
+            <p>I know <hi>Naamans</hi> example [<hi>when I bow my ſelf before the Idol</hi> Rimmon] is much objected againſt what I have ſaid;<note place="margin">2 <hi>King.</hi> 5.</note> but for anſwer to this, conſider firſt, that <hi>Naaman</hi> was then but a Novice in Religion, and had not yet learned to deny himſelf for God. 2. <hi>Naaman</hi> ſpeaks not of any religious Worſhip to be performed to <hi>Rimmon:</hi> but of a civil Office to be done to his Prince. 3. Becauſe <hi>Naa<g ref="char:EOLhyphen"/>man</hi> knew that this action could not but be ſcandalous to
+<pb n="4" facs="tcp:93209:7"/>others, and polluted with the circumſtance of time and place, he confeſſed it was a ſin, and deſires Gods mercy. Laſtly, We do not find that <hi>Naaman</hi> ever did it; but on<g ref="char:EOLhyphen"/>ly feeling or fearing his own infirmity, he deſires the Pro<g ref="char:EOLhyphen"/>phets Prayers, either that he might not fall, or if he did, that God would forgive him; to which the Prophet aſ<g ref="char:EOLhyphen"/>ſents, and that only in ſuch a form of ſpeech, as is an uſu<g ref="char:EOLhyphen"/>al valediction, as Go in peace, or Gods peace be with you.</p>
+            <p>There are two main impediments of this public Con<g ref="char:EOLhyphen"/>ſeſſion of Chriſt, Shame and Fear. They that are aſham<g ref="char:EOLhyphen"/>ed, are ſuch as love the Praiſe of Men more then the Praiſe of God. When <hi>
+                  <g ref="char:V">Ʋ</g>lyſſes</hi> taught young <hi>Neoptolomy</hi> the Art of Lying; the Youth being of an ingenuous na<g ref="char:EOLhyphen"/>ture, ask'd him, how it was poſſible to tell a Lye without bluſhing; he anſwered, him, that a man ought never to be aſhamed of any thing, whereby Profit may be had. And if we ſeriouſly conſider it, 'tis ſtrange, that any Chriſtian ſhould be aſhamed of his Profeſſion, which brings him ſo great Gain as an eternal weight of Glory. We have a common proverb; that he that is aſhamed of his Trade ſhall never thrive by it; and 'tis altogether as true, that he ſhall never ſave his Soul by Religion, who is aſhamed to profeſs it. 'Tis confeſs'd, the time was, when <hi>Nicodemus</hi> came by night to Jeſus; and when <hi>Joſeph</hi> of <hi>Arimathea</hi> was a ſecret Diſciple; but it was when they were punies in Chriſtianity; but when Religion was firmly rooted in them, they joyned openly in the honou<g ref="char:EOLhyphen"/>rable Interment of our Saviour;<note place="margin">
+                  <hi>Rom.</hi> 1.16.</note> and thus St. <hi>Paul</hi> confeſt he was <hi>not aſhamed of the Goſpel of Chriſt.</hi>
+            </p>
+            <p>The ſecond impediment is Fear. This cauſed <hi>Moſes</hi> to ſtagger at the Commands of God; this made <hi>Eliſha</hi> fly from the womaniſh threats of <hi>Jezabel,</hi> and St. <hi>Peter</hi> de<g ref="char:EOLhyphen"/>ny his Maſter. Fear is ſo bad a Counſellor in the Ser<g ref="char:EOLhyphen"/>vice of God,<note place="margin">
+                  <hi>Judg.</hi> 7.3.</note> that <hi>Gideon,</hi> when he was ready to joyn bat<g ref="char:EOLhyphen"/>tel with the Enemy, proclaimed, that whoſoever was fear<g ref="char:EOLhyphen"/>ful
+<pb n="5" facs="tcp:93209:7"/>ſhould depart: and ſo timorous Chriſtians are not fit to fight the Lord's Battels: therefore 'tis ſaid, <hi>the fearful,</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 21.8.</note> 
+               <hi>and the unbelievers, and the abominable, ſhall have their portion in the Lake that burns with Fire and Brimſtone.</hi>
+            </p>
+            <p>I never heard nor read of a more reſolute Band of Sol<g ref="char:EOLhyphen"/>diers then thoſe ſeditious Followers of <hi>Cataline,</hi>
+               <note place="margin">Saluſt. Bello Ca<g ref="char:EOLhyphen"/>talini.</note> their Souls flitted from their Bodies before they moved from their ſtations; and the place they fought on when alive, they covered with their Bodies when dead: and the Hi<g ref="char:EOLhyphen"/>ſtorian tells you, the reaſon was, becauſe they carried their<note n="*" place="margin">Diviti<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Decus, Glo<g ref="char:EOLhyphen"/>riam pre<g ref="char:EOLhyphen"/>terea liber<g ref="char:EOLhyphen"/>tatem, at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Patrium, in dextris ve<g ref="char:EOLhyphen"/>ſtris port<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>re.</note> Riches, their Glory, their Life, their Liberty, their Country, and all their hopes in their right hand. Change but the Perſons and the Story is ours: for in our Chri<g ref="char:EOLhyphen"/>ſtian Warfare we bear a Crown of Glory, Eternal Life, Spiritual Liberty, and our Heavenly Country in our right hand, and to him only that overcomes, ſhall all this be given: <hi>for be thou faithful to the end, and I will give thee the Crown of Life.</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 2.10.</note>
+            </p>
+            <p>Yet neither St. <hi>Paul</hi>'s practice, nor my Diſcourſe does encourage any to run into unneceſſary dangers: for he that loves danger ſhall periſh in it. To precipitate a mans ſelf into needleſs peril is ſenſeleſs folly; and to do it out of oſtentation, is meer vanity: But when a Man's Profeſſion obliges him to give Evidence for the Truth, to be then neither aſhamed of Chriſt, nor of his Goſpel, nor fearful to ſuffer for it, is neceſſary true Chriſtian Courage.</p>
+            <p>The ancient Law of governing the <hi>Roman</hi> Army was reduced to two heads: <hi>nec ſequi, nec fugere;</hi> not too ven<g ref="char:EOLhyphen"/>terſomly to make a raſh purſuit without need; and when there was occaſion, nor by too timorouſly running away to betray the Cauſe to the common Enemy and thus a Chriſtian ought not to ſeek danger when he is free, nor to ſhun it when it is offered. Behold, ſays Chriſt, <hi>I ſend you forth as Lambs in the midſt of Wolves, be ye therefore wiſe as Serpents, and innocent as Doves.</hi>
+            </p>
+            <p>There is a time when the Advice of <hi>Gellius</hi> takes place
+<pb n="6" facs="tcp:93209:8"/>even in Religion; that when the City labours with Sedi<g ref="char:EOLhyphen"/>tion, 'tis not the part of a good Citizen to profeſs himſelf a Newter, but to join with the party that has right on its ſide, and ſo help to ſuppreſs the other; and again there is a time, when the Example of <hi>Leontius</hi> Biſhop of <hi>Antioch</hi> is more imitable: that is, to give offence to neither party; <hi>for Wiſdom is juſtified of her Children.</hi> And thus much of the firſt thing, <hi>viz.</hi> the Conceſſion, in theſe words, <hi>[but this I confeſs]</hi>
+            </p>
+            <p>Before I ſpeak of the Confeſſion, which is the next thing, I will only remark this to you; that St. <hi>Paul</hi> firſt clears himſelf from being a Rebel againſt the State, be<g ref="char:EOLhyphen"/>fore he attempts to prove the Orthodoxy of his Faith, or the Purity of his Religion: From whence I deſire you to obſerve, that thoſe men that profeſs never ſo much of Religion with never ſo much of Zeal, are to be lookt up<g ref="char:EOLhyphen"/>on as falſe Teachers, ſo long as they continue their rebel<g ref="char:EOLhyphen"/>lious and ſeditious practices againſt the State: and there<g ref="char:EOLhyphen"/>fore let our diſſenting Brethren take notice, that while they in contempt of Authority oppoſe the eſtabliſh'd and known Laws, by their riotous, unlawful Aſſemblies, that their Religion and Profeſſion of Faith is falſe and errone<g ref="char:EOLhyphen"/>ous, and quite contrary to St. <hi>Paul</hi>'s here in my Text: which is the next thing I am to handle, in theſe words, [<hi>I worſhip the God of my Fathers,</hi> &amp;c.]</p>
+            <p>And in this I ſhall firſt ſpeak of the Act <hi>Worſhip,</hi> and in doing thereof, I will not ſpend time in conſulting that frivolous diſtinction of the Papiſts, of <hi>Latria, Dulia,</hi> and <hi>Hyperdulia;</hi> the firſt they ſay, is that Worſhip which is proper to God; the ſecond, which is due to the Creature; and the third of a middle nature, leſs than what is due to God, and more than is due to the Creature, and this (they ſay) is only due to the Virgin <hi>Mary.</hi> I know they have borrowed this diſtinction from St. <hi>Auſtin;</hi> but have much wreſted it from his ſenſe: For as they have added a third member to the diſtinction, (to wit) <hi>Hyperdulia:</hi>
+               <pb n="7" facs="tcp:93209:8"/>ſo it is certain, that St. <hi>Auſtin</hi> by <hi>Dulia</hi> did not under<g ref="char:EOLhyphen"/>ſtand any religious or ſpiritual Worſhip, which is only due to God; but an external civil Worſhip, ſuch as men give to Princes, Maſters, and Paſtors:<note n="*" place="margin">Servitus corporis non anim<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> de vera Re<g ref="char:EOLhyphen"/>lig. c. <hi>55.</hi> ibidem.</note> a ſervice of the Body, but not of the Mind, as <hi>he</hi> ſpeaks.</p>
+            <p>The Saints indeed <hi>are to be honoured for Imitation: but not to be adored for Religion.</hi> Neither does that <hi>Father</hi> ſay, that Saints are to be worſhipt with an inferior kind of religious Worſhip, called <hi>Dulia;</hi> but they expreſs con<g ref="char:EOLhyphen"/>trary; <hi>for we honor them,</hi>
+               <note place="margin">Honoramus eos Chari<g ref="char:EOLhyphen"/>tate, non Servitute. ibid.</note> (ſays he) <hi>with the honor of Love and Fellowſhip, as our Brethren and Friends: but not with Service, as our Maſters and Commanders.</hi>
+            </p>
+            <p>We do not deny that there are degrees of Honor: but to attribute the leaſt degree of the Service of the Spirit to any Creature, we abhor; becauſe that is ſolely due, and proper to God, who only, in all times, places, and things ſees, guides and diſpoſes of all, us, and ours. God is <hi>not mocked;</hi> and therefore will not ſuffer his own expreſs Word to be eluded with ſuch frivolous diſtinctions.</p>
+            <p>But as one complained, that the Law were like Spi<g ref="char:EOLhyphen"/>ders Webbs, wherein the little Flies are taken; but the great ones break through; ſo we may ſay of theſe Popiſh Subtilties, becauſe, that though they cannot caſt a miſt be<g ref="char:EOLhyphen"/>fore the eyes of God, and rational conſidering men: yet they may deceive the poor ſimple Lay Papiſt; who goes on roundly to work in his blind Devotion, <hi>he,</hi> poor man, muſt needs remain intangled in groſs <hi>Idolatry.</hi> And there<g ref="char:EOLhyphen"/>fore theſe Popiſh Ringleaders are not unfitly compared to <hi>Bawds,</hi> (it is King <hi>James</hi> his expreſſion in the like caſe) who though they do not actually pollute their own Bodies; yet are a means of proſtituting others to all fil<g ref="char:EOLhyphen"/>thineſs. But I leave them and return to our Apoſtles <hi>[I worſhip the God of my Fathers.]</hi> This Worſhip is twofold. 1. External. 2. Internal. The external Worſhip is prin<g ref="char:EOLhyphen"/>cipally threefold.</p>
+            <list>
+               <item>1. The preaching and hearing of Gods Word.</item>
+               <pb n="8" facs="tcp:93209:9"/>
+               <item>2. The invocating of his Name.</item>
+               <item>3. The reverend uſe of the holy Sacraments.</item>
+            </list>
+            <p n="1">1. As to the preaching and hearing of Gods Word, he requires nothing more earneſtly; than that the People be taught the knowledg of themſelves, of God, and of Religion,<note place="margin">
+                  <hi>Iſa.</hi> 58.1.</note> 
+               <hi>Son of man,</hi> ſaith God, <hi>cry aloud and ſpare not, lift up thy voice like a Trumpet;</hi> and <hi>Go and teach all Nati<g ref="char:EOLhyphen"/>ons,</hi> ſaith Chriſt;<note place="margin">
+                  <hi>Matt.</hi> 28. 1 <hi>Cor.</hi> 1.16. 2 <hi>Tim.</hi> 4.1, 2.</note> and <hi>Wo is me,</hi> ſaith the Apoſtle, <hi>if I preach not the Goſpel,</hi> and he charges <hi>Timothy before God, and before the Lord Jeſus Chriſt, who ſhall judg both the quick and the dead, that he preach the Word, and be inſtant in ſeaſon, and out of ſeaſon.</hi>
+            </p>
+            <p>And as preaching is the Miniſters Duty, ſo it is the Peoples to hear:<note place="margin">
+                  <hi>Rom.</hi> 10.14. <hi>Prov.</hi> 29.18.</note> 
+               <hi>for how can they believe in him, of whom they have not heard: and where there is no Viſion the people periſh.</hi> Faith is like the Lamp, and the preaching of the Word like Oil; and as the Lamp without a freſh ſupply of Oil does go out; ſo Faith does decay without preach<g ref="char:EOLhyphen"/>ing: wherefore it is written of our Saviour, that when he found a multitude without a Paſtor, <hi>he was moved with compaſſion towards them.</hi>
+               <note place="margin">
+                  <hi>Mark</hi> 6.34.</note>
+            </p>
+            <p>The ſecond part of this external Worſhip is Invocation of his Name, and this is ſo natural to us, that we uſually lift up our eyes to Heaven in any ſuddain exigence, even before we conſider the danger, or conſult our reaſon; and God commands us to call upon him <hi>in the day of trouble, and he will hear us.</hi>
+               <note place="margin">
+                  <hi>P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 50.15.</note> This is ſo prevalent that it binds up the hands of the Almighty;<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>od.</hi> 32.10.</note> 
+               <hi>Let me alone,</hi> ſaith God to <hi>Moſes, that my wrath may wax hot againſt them.</hi> No mar<g ref="char:EOLhyphen"/>vel then that St.<note place="margin">
+                  <hi>James</hi> 5.16.</note> 
+               <hi>James</hi> ſays <hi>the Prayer of the Faithful a<g ref="char:EOLhyphen"/>vaileth much, if it be fervent.</hi> In a word, he that does not pray,<note place="margin">
+                  <hi>Pſ.</hi> 53.2.</note> is an Atheiſt; for <hi>David</hi> ſaith, that only <hi>the Fool, who ſaith in his heart, there is no God, doth not call upon the name of the Lord.</hi>
+            </p>
+            <p>I ſear, if meaſures were taken of our being or not being Atheiſts, by the frequency of our Prayers, there are too
+<pb n="9" facs="tcp:93209:9"/>many amongſt us, that could ſcarcely free themſelves from that imputation; unleſs to come to this place once or twice upon a <hi>Sunday,</hi> and that too, more out of cuſtom, than Devotion, and never to think more of their Duty till <hi>Sunday</hi> come again, does acquit them from that charge. But remember, God will be called upon; or he will not deliver.</p>
+            <p>The third part of this external Worſhip is the reverend uſe of the Sacraments; and let me tell you, they are not indifferent things, which we may uſe, or not uſe, at our pleaſure; as <hi>Eſther</hi> ſaid, <hi>If I periſh, I periſh.</hi> There is a more Chriſtian <hi>[If]</hi> in the caſe, that is,<note place="margin">
+                  <hi>Matt.</hi> 28.</note> If we obey the Commands of Chriſt, we muſt uſe them; for <hi>he</hi> ſays, <hi>Go teach all Nations, baptiſing them,</hi> and <hi>take ye, eat ye,</hi>
+               <note place="margin">
+                  <hi>Matt.</hi> 26.2.27.</note> 
+               <hi>drink ye.</hi>
+            </p>
+            <p>
+               <hi>Licurgus</hi> the <hi>Lacedomonian</hi> Lawgiver (to oblige them to a more ſtrict obſervance of his Laws) made the <hi>Lacedemo<g ref="char:EOLhyphen"/>nians</hi> take an Oath to obſerve them till his return, and then took a journey, with a reſolution never to go back again: and cauſed his Aſhes to be thrown into the Sea, leaſt his People, finding them, ſhould think themſelves abſolv'd from their Oath.</p>
+            <p>And thus, our Saviour Jeſus Chriſt being to leave his Diſciples, obliges them to the uſe of his Sacraments, till his return, never intending to return again in humility, but in glory: If a dying Friend ſhould give you a Ring as a token of his Love, and charge you to keep it for his ſake, would you deſpiſe an inſtance of ſo great Kindneſs? How comes it then to paſs, that we ſo little value ſo ineſti<g ref="char:EOLhyphen"/>mable a Jewel, as the bleſſed Sacraments, which are the Badges of our Chriſtianity, whoſe Value and Dignity does not flow from the outward Elements? For what is the ſprinkling of a little Water, the eating of a bit of Bread, or the drinking of a ſup of Wine? But from the Ordi<g ref="char:EOLhyphen"/>nance and Inſtitution of Chriſt, juſt as a piece of Wax with the Kings Broad Seal ſtampt upon it, is of more va<g ref="char:EOLhyphen"/>lue,
+<pb n="10" facs="tcp:93209:10"/>than a thouſand times ſo much in the Merchants Shop.</p>
+            <p>And truely if we would be taken for Chriſt's Souldiers we ought not to be aſhamed of his mark, the Holy Sa<g ref="char:EOLhyphen"/>crament of his Body and Blood.</p>
+            <p>There are two things generally objected by many that are called Chriſtians, againſt receiving of it; the one is, that if they partake of it unworthily, it will prejudice them: Such would do well to conſider; that until they put themſelves into a condition of Receiving it Worthily, they cannot be in a condition of dying; and how dange<g ref="char:EOLhyphen"/>rous it is not to be always ſo, the uncertainty of this life does ſhew.</p>
+            <p>The other Objection is, That they are not yet willing to part with their Sins, to which the Receiving of the Sacrament obliges them, and therefore they will defer Communicating until they are Old, and have a mind to repent and part with their Sins. Such would do well to conſider that they may fall ſhort of the time, they deſign for that work; or if they ſhould not, that God may not give them then Grace to Repent. And thus much of Ex<g ref="char:EOLhyphen"/>ternal Worſhip, which I told you conſiſts in Preaching, and Hearing, in Invocation, and the reverent uſe of the Sacraments.</p>
+            <p>The other part of his Service, is, Internal; that is, the worſhip of the Spirit, without which all our Preaching, Hearing, Praying, Chriſtning, and Communicating, are but like a Sepulcher outwardly, beautiful; but inwardly, full of corruption: for though the outward Form is that which approves us to Man; yet it is the inward frame that juſtifies us to God. Who does not like ſuch Profeſ<g ref="char:EOLhyphen"/>ſors as<note n="*" place="margin">
+                  <hi>Cap.</hi> 7.8. <hi>Cap.</hi> 24.6. <hi>Joh.</hi> 4.24.</note> 
+               <hi>Hoſea</hi> compares <hi>to a half baked Cake;</hi> and <hi>Ezekiel</hi> to a Pot, <hi>whoſe ſcum is therein:</hi> For <hi>God is a Spirit,</hi> and he will, nay, he muſt be worſhipt in <hi>Spirit</hi> and <hi>Truth.</hi>
+            </p>
+            <p>Some there are, who with <hi>Eſop</hi>'s Dog ſnatch at the ſhadow and loſe the ſubſtance, that is, place the whole worſhip of God in bodily Exerciſe, and external Adora<g ref="char:EOLhyphen"/>tion;
+<pb n="11" facs="tcp:93209:10"/>as bowing before a Crucifix, in creeping to a Croſs, in running a bare-leg'd Pilgrimage, in viſiting the Reliques of the Saints, in hearing of ſo many Maſſes, in macerat<g ref="char:EOLhyphen"/>ing the Fleſh, in hanging down the head for a day like a Bulruſh, in Croſſes, and Candles, in Holy Waters, and Holy Oyls, in Pixes, and Paxes, and ſuch like fripperies.</p>
+            <p>And there are others, who (like <hi>Lapwings,</hi> make the greateſt noiſe when they are fartheſt from their young ones) though they pretend the greateſt diſtance from the Papiſts, yet come very near them in many things, and place their whole Religion in running through thick and thin, three or four Miles on a Sunday to hear a Man preach, or rather prate nonſence; in carrying a Bible un<g ref="char:EOLhyphen"/>der their Arms, though they neither underſtand it, nor draw any Inferences from it, for the amendment of their lives and practices: in condemning all as Reprobates, that are not of their own Communion, and in applying the intricate and miſterious places of Scripture, eſpecially ſuch as denounce Gods Judgments, to thoſe that are not of their own perſuaſion. And if they can but prate like Par<g ref="char:EOLhyphen"/>rots in the Scripture phraſe, and ſing three or four Pſalms upon a Lords Day, and repeat at night the nonſence they heard the morning; nay if they commend the Preacher for bawling lowd, and making wry faces, and thumping the Pul<g ref="char:EOLhyphen"/>pit, and holding forth for two or three hours, and preach<g ref="char:EOLhyphen"/>ing off Book ſuch ſtuff as is impoſſible for a conſidering perſon to write; they conclude they have worſhip'd God ſufficiently, and that no more is required of them. And truly though this is very far from being acceptable to God, yet I wiſh we had not too juſt cauſe, on the other hand, to complain, that internal Worſhip is too much ſlighted by us, and Prayers and Sacraments too much neglected; and that as in times of Popery all Religion and Worſhip was in a manner reduced to a Maſs, ſo now amongſt us to a Sermon, <hi>they ſeeing without underſtanding,</hi> and we hearing without practiſing.</p>
+            <pb n="12" facs="tcp:93209:11"/>
+            <p> Thus much for the firſt particular, to wit, the Act, in which I have ſpoken of the external and internal Worſhip due to God. I now proceed to the ſecond particular in the Confeſſion; and that is the Object of his Worſhip, <hi>the God of my Fathers.</hi>
+            </p>
+            <p>Obſerve no Saint, nor Angel, no Creature, nor Throne, no Dominion, nor Power, no Heatheniſh Diety, but the only true God in Jeſus Chriſt. <hi>Thou ſhalt worſhip the Lord thy God,</hi>
+               <note place="margin">Exod. <hi>20.</hi>
+               </note> 
+               <hi>and him only ſhalt thou ſerve.</hi> And, <hi>See thou do it not,</hi>
+               <note place="margin">
+                  <hi>Chap.</hi> 22.9.</note> (ſaith the Angel in the Revelations to St. <hi>John;</hi>) <hi>I am thy fellow creature, worſhip God.</hi>
+            </p>
+            <p>The <hi>Manichees</hi> worſhip'd two Gods, a God of Good, and a God of Evil, and the <hi>Tritheits</hi> three Gods, whence they had their Name; the <hi>Valentinians</hi> worſhip'd thirty couple of Gods, and the <hi>Gentiles,</hi> as St. <hi>Auſtin</hi> obſerves, thirty thouſand Gods; thence they worſhip'd their adul<g ref="char:EOLhyphen"/>terous <hi>Jupiter,</hi> their beaſtly <hi>Apollo,</hi> their drunken <hi>Bac<g ref="char:EOLhyphen"/>chus,</hi> their baſtardly <hi>Aeſculapius,</hi> their theeviſh <hi>Mercury,</hi> their bloody <hi>Mars,</hi> their impudent <hi>Venus,</hi> and their ſpite<g ref="char:EOLhyphen"/>ful <hi>Juno;</hi>
+               <note place="margin">De Deo u<g ref="char:EOLhyphen"/>no &amp; vero.</note> as <hi>Zanchy</hi> obſerves. And the Papiſts have e<g ref="char:EOLhyphen"/>quall'd, if not exceeded, the Heathens in the number of their Gods, and their ſuperſtitious Ceremonies; as may appear by the practice of the common people in theſe particulars.</p>
+            <list>
+               <item>1. The Pagans had their ſeveral tutelar Gods for ſeveral places; for <hi>Delphos</hi> worſhip'd <hi>Apollo, Crete Jupiter, Athens Minerva,</hi> and <hi>Epheſus Diana:</hi> And ſo in Popery, <hi>England</hi> worſhip'd St. <hi>George, Scotland</hi> St. <hi>Andrew, Ireland</hi> St. <hi>Pa<g ref="char:EOLhyphen"/>trick, Venice</hi> St. <hi>Mark,</hi> and <hi>Millain</hi> St. <hi>Ambroſe.</hi>
+               </item>
+               <item>2. In Paganiſm they had ſeveral Gods for ſeveral Ele<g ref="char:EOLhyphen"/>ments; as <hi>Jupiter</hi> for the Fire, <hi>Juno</hi> for the Air, and <hi>Nep<g ref="char:EOLhyphen"/>tune</hi> for the Sea; And ſo in Popery, they have <hi>Agathus</hi> for the Fire, <hi>Theadulus</hi> for Tempeſts, St. <hi>Barbara</hi> for Thunder, and St. <hi>Nicholas</hi> for the Sea.</item>
+               <item>3. In Paganiſm, they had ſeveral Gods to pray to for their Cattel, and their Fruit; as <hi>Pan</hi> for the one, <hi>Ceres</hi> for
+<pb n="13" facs="tcp:93209:11"/>the other, and <hi>Bacchus</hi> for their Wine: and ſo in Popery, they have <hi>
+                     <g ref="char:V">Ʋ</g>rbanas</hi> for their Wine, <hi>Jodocus</hi> for their Fruit, <hi>Wandelinus</hi> for their Sheep, <hi>Eulogius</hi> for their Horſes, and St. <hi>Anthony</hi> for their Pigs.</item>
+               <item>4. In Paganiſm ſeveral Proſeſſions had ſeveral Gods to pray to; as Scholars <hi>Apollo,</hi> Souldiers <hi>Mars,</hi> Smiths <hi>Vul<g ref="char:EOLhyphen"/>can,</hi> and Hunters <hi>Diana:</hi> So in Popery, Scholars have St. <hi>Gregory,</hi> Souldiers St. <hi>George,</hi> Smiths St. <hi>Loy,</hi> and Shoo<g ref="char:EOLhyphen"/>makers St. <hi>Criſpin.</hi>
+               </item>
+               <item>5. In Paganiſm they had ſeveral Gods to pray to in ſeveral Diſeaſes; as <hi>Apollo</hi> for the Plague, <hi>Hercules</hi> for the Falling Sickneſs, and <hi>Lucina</hi> for Women in Childbirth; and ſo in Popery, St. <hi>Roch</hi> for the Plague, <hi>Petronella</hi> for the Ague, <hi>Apollonia</hi> for the Tooth-ach, <hi>Anaſtacis</hi> for the Head-ach.</item>
+               <item>Laſtly, To theſe both Pagans and Papiſts build Chur<g ref="char:EOLhyphen"/>ches, erect Altars, ordain Prieſts, appoint Feſtivals, ſet up Statutes, and burn Candles, as <hi>Muſculus</hi> obſerves; they did not learn this from our Apoſtle,<note place="margin">Comm. in Pſal. <hi>16.</hi>
+                  </note> the ſole Object of whoſe religious Worſhip was the God of his Fathers, that is, the God whom his Fathers worſhip'd.</item>
+            </list>
+            <p>There can be nothing more opprobriouſly objected in Religion than Novelty; <hi>there are a People who have made Laws of their own,</hi> ſaid <hi>Haman</hi> of the Jews,<note place="margin">
+                  <hi>Eſth.</hi> 3.8.</note> and the <hi>Areo pagites</hi> of St. <hi>Paul, let us hear what new Doctrine this is;</hi>
+               <note place="margin">
+                  <hi>Acts</hi> 17.19.</note> for Innovation diminiſhes the venerable Authority of Re<g ref="char:EOLhyphen"/>ligion: and therefore it is the Politicians Rule, not to re<g ref="char:EOLhyphen"/>move an ill cuſtom when well ſetled: the very Names of our Fathers and Predeceſſors ſway much; for the Wo<g ref="char:EOLhyphen"/>man of <hi>Samaria,</hi> you know, alledged the example of her Fathers againſt Gods Commands; <hi>Our Fathers,</hi> ſays ſhe,<note place="margin">
+                  <hi>Joh.</hi> 4.20.</note> 
+               <hi>worſhip'd in this Mountain;</hi> but our Saviour tells her, <hi>Sal<g ref="char:EOLhyphen"/>vation is of the Jews.</hi> And the Gentiles excepted againſt Chriſtianity, becauſe they would not condemn the ways of their Fathers; but keep to, and preſerve thoſe Rites which deſcended to them from age to age; and the Here<g ref="char:EOLhyphen"/>ticks
+<pb n="14" facs="tcp:93209:12"/>themſelves, to gain credit to their Tenents, were uſed to ſay, ſo I have received, ſo I have been taught by the Fathers.</p>
+            <p>And the Romaniſts do not object any thing more ma<g ref="char:EOLhyphen"/>liciouſly, and falſly, to the ignorant amongſt us, then that we had our Religion only from <hi>Luther</hi> and <hi>Calvin,</hi> (which they themſelves cannot but know in their Con<g ref="char:EOLhyphen"/>ſciences to be otherwiſe) and that we ſwerve from the Judgment of the Primitive Fathers, and exclude our Pre<g ref="char:EOLhyphen"/>deceſſors from all hope of Salvation. But notwithſtand<g ref="char:EOLhyphen"/>ing that they brag the Fathers are all theirs, like the Madman that challenged all the Ships that came into the Harbour for his own; yet it is evident to any one, that is but meanly converſant in reading their Authors; that they eſteem the Fathers but as Counters, which at play are ſometimes placed for Pounds, and ſometimes for Pence; for where they ſeem to favour them, they commend and admire them; and where they are clear againſt them, they decry and deſpiſe them. Otherwiſe if the Fathers are theirs, and if they would have us believe they are their princi<g ref="char:EOLhyphen"/>pal Witneſſes, why do they cut out their Tongues with their falſe gloſſes, and expurgations of what they do not like.</p>
+            <p n="2">2. The Examples of our Progenitors, or Predeceſſors, are no infallible rules for us to follow; for we muſt not with the Phariſees tranſgreſs the <hi>Commands of God by the Tradition of our Fathers.</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 15.3.</note>
+            </p>
+            <p>We muſt not with the Jews <hi>offer Sacrifice to the Queen of Heaven,</hi>
+               <note place="margin">
+                  <hi>Jer.</hi> 44.17</note> 
+               <hi>becauſe our Fathers did ſo, and it was well with them.</hi>
+               <note place="margin">
+                  <hi>Jer.</hi> 9.14.</note> Why <hi>did the Land periſh, and was burnt up like a Wilderneſs? But becauſe the people walked after</hi> Baalim, <hi>which their Fathers taught them.</hi> Therefore the Prophet ſays,<note place="margin">
+                  <hi>Pſ.</hi> 49.19.</note> 
+               <hi>walk not in the ways of your Fathers; and they follow the Generation of their Fathers, which ſhall not ſee the light.</hi>
+            </p>
+            <p n="3">3. We do not make the caſe of our Fore fathers, that liv<g ref="char:EOLhyphen"/>ed in Popery, ſo deſperate as they repreſent it; for we do
+<pb n="15" facs="tcp:93209:12"/>not queſtion, but many of them held firm the Founda<g ref="char:EOLhyphen"/>tion, though much <hi>Hay</hi> and <hi>Stubble</hi> was built upon it: for though they might be forc'd by terror, or induced by ſleight, to partake of the common errors of the Church of <hi>Rome;</hi> yet they might be free from its <hi>Hereſy,</hi> and hold the Faith implicitly <hi>in preparatione animi,</hi> that is, be ready to embrace it, when God ſhould reveal it to them.</p>
+            <p n="4">4. God might illuminate whom he pleas'd by his Spirit in thoſe times of darkneſs, when the means of Knowledg was wanting, (which is not now in this Sunſhine of the <hi>Goſpel,</hi> to be expected) as he enlightned the world by an expanded Light before he created the Sun, which is ſince the ordinary way of giving Light; and as he fed the <hi>Iſra<g ref="char:EOLhyphen"/>elites</hi> with <hi>Manna</hi> in the Wilderneſs, which he withdrew aſſoon as they came into the Land of Promiſe. For when ordinary means are afforded, extraordinary muſt neither be expected, nor relied upon: So that you ſee there is a vaſt difference between the caſe of our Forefathers, and the caſe of the Papiſt now, who wilfully ſhut their eyes againſt the Light offered to them. When the ordinary means fail'd, God was able to ſave, and did ſave in the midſt of that Blindneſs, thoſe that belonged to the Election of his Grace: But it cannot be therefore ſafe for us to neglect ſo great Salvation as is now offered to us, upon pretence of our Forefathers being otherwiſe principled.</p>
+            <p>
+               <hi>If my Predeceſſors,</hi> ſays St. <hi>Cyprian, have not taught,</hi>
+               <note place="margin">Cypriant Ep. <hi>63.</hi> p. <hi>156.</hi> Edit. Oxon. Si quis de An<g ref="char:EOLhyphen"/>teceſſoribus noſtris, vel ignoranter, vel ſimpli<g ref="char:EOLhyphen"/>citer, hoc non obſer<g ref="char:EOLhyphen"/>vaverit, &amp;c.</note> 
+               <hi>or held, either through ſimplicity, or ignorance, that which our Lord has taught them, by his example, or Authority, the Mercy of God might pardon them; but we cannot rely upon the like Mercy, who have ſo clear a propoſal of thoſe Truths, which were concealed from them.</hi> It is indeed good man<g ref="char:EOLhyphen"/>ners, and charity, to think, hope, and ſpeak well of our Fathers; but it is both Wiſdom and Divinity to look well to our ſelves.</p>
+            <pb n="16" facs="tcp:93209:13"/>
+            <p> I wiſh the Diſſenters from our Church would ſeriouſly apply this to themſelves; if they did, they muſt find their caſe much worſe than their Predeceſſors, becauſe they at once tread out of their ways, and walk not in ours. I am ſure this diſorderly tumultuous way of ſerv<g ref="char:EOLhyphen"/>ing God, which the Separatiſts uſe, was never practiſed by any conſiderable party in the primitive times. And thô I will not deny but ſeveral National Churches might differ from one another in their Forms of Worſhip; yet I never read nor heard of any who had not a Form by which they did worſhip, until our modern Presbyterians. This one inſtance (I fancy) That they cannot pretend the cuſtom of their Fathers, for what they do, (unleſs they will own none for ſuch that lived above ſixty years a<g ref="char:EOLhyphen"/>gon) might be ſufficient to make them at the ſame in<g ref="char:EOLhyphen"/>ſtant to leave off, and forſake their folly. And I am per<g ref="char:EOLhyphen"/>ſwaded that there are not any conſiderable perſons a<g ref="char:EOLhyphen"/>mongſt them, but if they did ſeriouſly reflect, and calmly conſider, how great a ſin it is to make a ſchiſm in, and ſeparate from that Church, with which they own they agree in Doctrine, and is eſtabliſhed by Law, for they know not what reaſon, but becauſe they will. I ſay, if they did think on this, and ſadly reflect, that whatever the Church of <hi>England</hi> either has al<g ref="char:EOLhyphen"/>ready, or may hereafter ſuffer through Popery, is whol<g ref="char:EOLhyphen"/>ly due to themſelves, for having murdered the beſt of Kings, and forc'd his Royal Iſſue to ſeek for ſafety under great neceſſities in Popiſh Countries, and thereby ex<g ref="char:EOLhyphen"/>poſed them to the dangers and temptations of the Ro<g ref="char:EOLhyphen"/>miſh Clergy, who never fail to improve all opportuni<g ref="char:EOLhyphen"/>ties for the advantage of the Church, or rather Court of <hi>Rome:</hi> I ſay, if they did think on this, they would now at leaſt, being ſo very obnoxious, for their own preſervation, cloſe with us in our Communion, and not ſeparate from that manner of Worſhip which we give to <hi>the God of our Fathers,</hi> with the Apoſtle here in the
+<pb n="17" facs="tcp:93209:13"/>Text, which was the object, and the ſecond thing I was to ſpeak of, and leads me to the manner of his <hi>Worſhip,</hi> which is the third particular, in theſe words, <hi>after that way which they call Hereſie.</hi>
+            </p>
+            <p>Whence we may firſt obſerve, that it is no new thing for Religion, and the Profeſſors thereof, to be traduced: for Chriſt was ſcoft at as a <hi>Carpenters Son;</hi> and Chriſti<g ref="char:EOLhyphen"/>anity is called <hi>Hereſie,</hi> and Chriſtians <hi>Gallileans;</hi> and this proceeds from the innate Malice and Ignorance that every Man has in him ſince the Fall; which, as the Spider extracts Poiſon out of the ſweeteſt Flowers, makes the worſt interpretations of the beſt things and actions;<note place="margin">2 <hi>Sam.</hi> 6.14, 15, 16.</note> ſo that if <hi>David</hi> dance zealouſly before the Ark; he ſhall not want a <hi>Michol</hi> to laugh at him: and if <hi>Ezekiah</hi> deſtroy Idolatry, ſome <hi>Rabſhekah</hi> will not ſtick to ſay, <hi>Is not this the God whoſe Altars</hi> Ezekiah <hi>broke down.</hi> If <hi>Mary Magdalen</hi> pour a little Oil on the Head and Feet of our Saviour, ſome <hi>Judas</hi> will be rea<g ref="char:EOLhyphen"/>dy to ſay, <hi>what needs this waſte? Conſtantine,</hi>
+               <note place="margin">
+                  <hi>Joh.</hi> 21.4.</note> for his bounty to the Church ſhall be called <hi>Pupillus,</hi> one that needs a Guardian; and <hi>Theodoſius</hi> for his Piety <hi>Imbellis,</hi> a Coward: But as the Moon goes on ſilently in her courſe, thô Dogs do bark at her, ſo let us go on in our Religi<g ref="char:EOLhyphen"/>ous Worſhip, without regarding the Calumniations of our Adverſaries.</p>
+            <p n="2">2. Obſerve, That if we be morally certain, that what we profeſs is true, and according to Gods Word, it mat<g ref="char:EOLhyphen"/>ters not that the Papiſts call us Hereticks, and the Se<g ref="char:EOLhyphen"/>paratiſts call us Papiſts; Truth will juſtifie it ſelf. St. <hi>Paul</hi> you ſee is not offended that they call his Religion Hereſie.</p>
+            <p>And this brings me to the fourth thing in the Text, namely, the Rule, in theſe words, <hi>believing all things that are written in the Law and the Prophets.</hi> God, who requires man to worſhip him, has preſcribed a Rule for his Direction: and leaſt this Rule might be forgotten
+<pb n="18" facs="tcp:93209:14"/>or corrupted in tract of time by a bare oral Tradition of it from age to age, he committed it to Writing; for though the Word ſpoken be more efficacious, yet the Word writ<g ref="char:EOLhyphen"/>ten is more durable: therefore it was that <hi>Moſes</hi> was com<g ref="char:EOLhyphen"/>manded to write the moral Law in two Tables; and that the Spirit in the <hi>Revelation</hi> ſays <hi>write;</hi> and here St. <hi>Paul</hi> makes the Rule of his Faith, <hi>all that is written in the Law and the Prophets.</hi>
+            </p>
+            <p>It would not be proper now to diſpute whether it be neceſſary to Salvation, for a man to believe all that is written in the Old and New Teſtaments; and therefore I ſhall only (for reſolving this Doubt, and many other Objections, that may follow thereupon) offer theſe few particulars.</p>
+            <list>
+               <item>1. That every diſtinct Sentence of the holy Scriptures does command and require our Belief as much as the whole, or any part of them.</item>
+               <item>2. That though a man may be ſaved without knowing all that is conteined in the Scriptures; yet if he refuſe to give credit to any part of them (when it is revealed to him as ſuch) he cannot be ſaved.</item>
+               <item>3. That every man is not only obliged under pain of Damnation, to believe all that is Scripture, when revealed to him; but he is alſo bound to believe what is not re<g ref="char:EOLhyphen"/>vealed to him in preparation of mind.</item>
+               <item>4. That we may and ought to infer from St. <hi>Pauls</hi> words in the Text, that the Scriptures are a ſufficient Rule of Faith, and that there is enough conteined in them, without any other additions, both for our Direction and Practice.</item>
+            </list>
+            <p>Yet I deny not, but that an undoubted Tradition, if we were ſo well aſſured of the Truth of it, by a general conſent of all Ages, as we are of the Truth of the Scri<g ref="char:EOLhyphen"/>ptures, has the ſame Authority with Scripture; for un<g ref="char:EOLhyphen"/>til the means of Salvation was fully perfected, and the
+<pb n="19" facs="tcp:93209:14"/>Scriptures committed to Writing, Tradition was the Rule: For St. <hi>Paul</hi> bids <hi>Timothy</hi> to <hi>take heed to all that he had received, either by Word or Writing.</hi> And though we do not, with the <hi>Romaniſts,</hi> allow Tradition to ſupplant the Scriptures, by giving it equal Authority with them; yet we allow much to an Apoſtolical Tradition: becauſe it may be neceſſary, though not abſolutely ſo, to the clearing and better underſtanding of ſome intricate and myſterious paſſages in Scripture. And this leads me to the fifth particular in my Text, to wit, the principal ground of his Confeſſion, in theſe words, <hi>and have hope towards God, which they themſelves alſo allow, that there ſhall be a Reſurrection of the dead, both of the juſt and unjuſt.</hi>
+            </p>
+            <p>From which we may firſt obſerve, That Prudence and Wiſdom are conſiſtent with true Religion; for you ſee St. <hi>Paul</hi> ſays, <hi>which they themſelves alſo allow;</hi> that is, the <hi>Phariſees,</hi> who did believe a Reſurrection; that by this means he might gain their favourable Opinion; and ſo divide them and the <hi>Sadduces,</hi> who did deny a Reſur<g ref="char:EOLhyphen"/>rection. For God never gave a man Religion with de<g ref="char:EOLhyphen"/>ſign to deprive him of the uſe of his Reaſon, and to make him a meer Natural: He that charges his Diſciples to be <hi>as innocent as Doves,</hi> bids them be <hi>as wiſe as Serpents,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 16.10.17.</note> and bids them to <hi>beware of men</hi> that will <hi>bring them into their Councils;</hi> which ſhews, that we muſt not, with the <hi>Donatiſts</hi> of old, and the <hi>Quakers</hi> now, court the Laſh and the Priſon, and ſeek for occaſions of Trouble: He only is the reſolute Champion for <hi>Chriſt,</hi> that will neither for fear of ſuffering, weakly betray his Cauſe, nor out of an ignorant Zeal, run into needleſs dangers.</p>
+            <p n="2">2. We may obſerve from hence that the Hope of the Reſurrection of the dead is a moſt powerful Argument to perſuade men to believe, and embrace, and practiſe the Chriſtian Religion. For when a man ſeriouſly conſiders that he is not only to give an account here of what he
+<pb n="20" facs="tcp:93209:15"/>has done, and that this life does not ſet a period to his ſufferings, or rejoycings; but that he ſhall riſe again and undergo a new and impartial tryal, and be for ever de<g ref="char:EOLhyphen"/>termined to live in eternal bliſs or miſery. This conſide<g ref="char:EOLhyphen"/>ration (I ſay) as it will make every rational (not to mention pious) man to live holily; ſo it will be a great allay to his temporal ſufferings, to conſider that he ſhall have <hi>joy in the morning</hi> of his Reſurrection, <hi>for the heavineſs he</hi> endured in the <hi>night</hi> of this life: This was the ground of St. <hi>Paul</hi>'s free and publick confeſſion of his Faith: And thus I come to ſpeak of the laſt particular in the Text, namely the effects, in theſe words, <hi>and herein do I exer<g ref="char:EOLhyphen"/>ciſe my ſelf, to have a Conſcience void of offence towards God, and towards man.</hi>
+            </p>
+            <p>Whence we may obſerve, that the end of all Religious Knowledg is practice: for Chriſtianity is an active life, it is not to make a wry Face, and to put on a ſerious look, and to talk piouſly, and to breath nothing but Scripture, that denominates a man a true Believer; but it is an ex<g ref="char:EOLhyphen"/>erciſing of ones ſelf ſo, as to keep a clear Conſcience to<g ref="char:EOLhyphen"/>wards God and Man. And therefore it is that St. <hi>Paul</hi> elſewhere exhorts <hi>to preſs forwards,</hi> and ſo to <hi>run</hi> as to <hi>win,</hi> and not <hi>to beat the Air.</hi> And our Saviour bids <hi>bring forth works meet for repentance.</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 3.8.</note> And that we may do this, we muſt live unblameably towards God, our Neighbours, and our ſelves. If we be defective in the laſt two, we muſt alſo be faulty in the firſt; becauſe though there are ſome offences more directly and imme<g ref="char:EOLhyphen"/>diately committed againſt God, than other; yet all are againſt him; For as much as they are tranſgreſſions of his Laws: And therefore we muſt make it our chief bu<g ref="char:EOLhyphen"/>ſineſs; Firſt to give him his due, which is honouring and invocating his name, acknowledge all we have to pro<g ref="char:EOLhyphen"/>ceed from his free Grace; and make him as far as we are able ſuitable returns of Praiſe and Thankſgiving: And
+<pb n="21" facs="tcp:93209:15"/>as we muſt behave our ſelves thus towards God, ſo we muſt deal uprightly with our Neighbours, we muſt carry Honey in our mouths, that is, not injure them with falſe reports, nor provoke them with bitter language, and we muſt carry Charity in our hands, that is, relieve them to our power, when their neceſſities require it, not wrong them by Violence or Fraud, not exact upon their neceſ<g ref="char:EOLhyphen"/>ſities; and we muſt carry a good example in all our actions. And laſtly, as to our ſelves, we muſt take heed that we abuſe not thoſe parts and indowments which God, gave us to be inſtrumental to his ſervice, by any kind of exceſs, riot, or intemperance; we muſt keep our ſences well governed in great equality. The Tongue under the rule of diſcretion, and the Heart in a firm peace; free from all ſenſual diſtracting thoughts; this is the true end of believing: Otherwiſe our aſſenting to a divine Truth, is no more than ſuch a faith as the Devils have, who <hi>believe and tremble,</hi> and are never the nearer happineſs: but our believing muſt include doing, and muſt carry along with it a <hi>conſcience</hi> or knowledge <hi>void of offence both towards God and towards Man.</hi> And thus I have ſpoken what I de<g ref="char:EOLhyphen"/>ſigned at this time on this Subject, and ſhall conclude all with one word of application. You have heard St. <hi>Paul</hi>'s Confeſſion of Faith: I beſeech you examine your ſelves, try whether you be of his Religion or not; if you be, I entreat you practiſe it.</p>
+            <p n="2">2. If you have a clear Conſcience, you need not re<g ref="char:EOLhyphen"/>gard the falſe reports of others; for though it be a miſ<g ref="char:EOLhyphen"/>fortune to be undeſervedly ill ſpoken of, yet it is a comfort that it is undeſervedly. The Bird in the Breaſt makes ſweeter Muſick than the Praiſes of a thouſand Flatterers. <hi>I am grieved</hi> (ſaith a Father) <hi>that they ſpeak ill of me, and aſperſe me falſly; becauſe they injure themſelves, and not me, by their uncharitableneſs; for they cannot rob me of the plea<g ref="char:EOLhyphen"/>ſure which a clear Conſcience continually adminiſters to me.</hi>
+            </p>
+            <pb n="22" facs="tcp:93209:16"/>
+            <p> Laſtly, That all of us may have this clear Conſcience, let us be ſure, with St. <hi>Paul,</hi> to walk by the Rule, the Word of God;<note place="margin">
+                  <hi>Pſal.</hi> 119.105.</note> that will be <hi>a Lanthorn to thy feet, and a Light to thy paths:</hi> and therefore do not imagine, that the carrying of your Bible to Church, and turning over the leaves, and reading it careleſly, is all that is required of you; but be ſure you practiſe what you read, and compare your actions with that Rule, and make them conformable to it: this will make you not only Profeſ<g ref="char:EOLhyphen"/>ſors of St. <hi>Pauls</hi> Faith, but alſo partakers of his Happineſs, where we ſhall ſee the Face of the living God clearly, and at the full, where the Beauties ſhall have no Veils to hide them from our eyes, our Beings ſhall have no end, our Knowledge ſhall not be ſubject to error, nor our Loves to diſpleaſure. O! what an exceſs of Happineſs will it be, to enjoy all, and to deſire nothing, to be a King without an Enemy, to be rich without Covetouſneſs, and to be ever living without fear of Death; all which God of his infinite Mercy vouchſafe unto us all, through the merits of Jeſus Chriſt; to whom, with the Father, and the holy Ghoſt, be all Honour and Glory now and for ever. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:93209:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
